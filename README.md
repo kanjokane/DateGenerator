@@ -1,2 +1,2 @@
 # DateGenerator
-Generates random statistics from specific date - w/ &lt;List>, StreamReader, LINQ and DateTime 
+Generates random statistics from specific date - w/ String array, StreamReader, LINQ, DateTime and creating a looong ass Method
